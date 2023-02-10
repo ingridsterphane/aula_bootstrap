@@ -1,0 +1,25 @@
+body{
+    font:20px Arial, sans-serif;
+    font-style: italic;
+}
+.navbar {
+    background-color: rgb(231, 120, 231);
+}
+
+.quem-somos{
+    background-color: rgb(181, 149, 207);
+    color: black;
+}
+
+.margin{
+    padding-top:20px;
+    padding-bottom:10px;
+}
+
+.drive_ {
+    background-color: rgb(181, 149, 207);
+}
+
+.play_{
+    background-color:rgb(181, 149, 207);
+}
