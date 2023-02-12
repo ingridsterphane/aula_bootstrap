@@ -1,2 +1,2 @@
 # Aula Bootstrap
-Treinando fazer um site mais responsivo 
+Treinando fazer um site mais responsivo usando o CSS
